@@ -1,0 +1,109 @@
+body{
+    background-color: #f1f1f1;
+}
+/* 
+nav{
+    margin: 0 50px;
+} */
+
+.top-nav{
+    padding: 20px;
+    margin: 0 20px;
+}
+
+.title{
+    color: #000;
+}
+
+.nav-item{
+    font-size: 12px;
+}
+
+.heart{
+    color: black;
+    font-weight: 900;
+}
+
+#advertismemnt{
+    padding: 0;
+    margin: 0;
+}
+
+.carouse-img{
+    width: 100%;
+}
+
+#products{
+    padding: 5% 2.8% 3% 2.8%;
+    background-color: white;
+}
+
+.product-img{
+    background-color: #abb8c3;
+}
+
+.desc{
+    margin-top: 15px;
+}
+
+.desc, .price{
+    text-align: center;
+    line-height: 1rem;
+}
+
+#testimonials{
+    text-align: center;
+    padding: 5% 3.5%;
+    background-color: white;
+}
+
+.inner-div{
+    background-color: #f1f1f1;
+    padding: 7% 0;
+}
+
+.testimony{
+    width: 70%;
+    margin: auto;
+    color: grey;
+    font-size: 17px;
+}
+
+.name{
+    font-size: 14px;
+}
+
+.position{
+    font-size: 13px;
+}
+
+#clients{
+    background-color: white;
+    padding: 3.5% 1% 7% 1%;
+}
+
+#clients img{
+    width: 100%;
+}
+
+hr{
+    margin: auto;
+    background-color: white;
+    width: 89.7%;
+    border: 0;
+    border-bottom: solid 0.1px;
+    color: rgb(228, 228, 228);
+}
+
+#footer{
+    background-color: #fff;
+}
+
+footer{
+    font-size: 12px;
+    color: rgb(144, 144, 144);
+}
+
+footer span{
+    color: rgb(144, 144, 144);
+}
