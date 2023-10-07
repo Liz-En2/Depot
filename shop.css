@@ -1,0 +1,52 @@
+.top-nav{
+    padding: 1.5% 3%;
+}
+
+.navbar-brand{
+    letter-spacing: 10px;
+}
+
+
+.nav-item{
+    font-size: 15px;
+   padding: 0 20px;
+}
+
+#arrangement{
+    background-color: rgb(249, 249, 249);
+    padding: 2.5% 3%;
+}
+
+#products{
+    padding: 5% 2.8% 3% 2.8%;
+    background-color: white;
+}
+
+.featured{
+    display: flex;
+    justify-content: space-between;
+}
+.featured p{
+    color: rgb(197, 197, 197);
+    font-weight: 200;
+}
+
+.desc{
+    margin-top: 15px;
+}
+
+.desc, .price{
+    text-align: center;
+    line-height: 1rem;
+}
+
+#footer{
+    background-color: black;
+    color: white;
+    padding: 2% 3%;
+    text-align: center;
+}
+
+#footer a{
+    color: white;
+}
